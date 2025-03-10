@@ -1,0 +1,94 @@
+/* HomePage.css */
+.homepage {
+    text-align: center;
+    background-color: #1A1A1A;
+    color: white;
+    padding: 20px;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.season-trailer {
+    margin-top: 40px;
+}
+
+.trailer-button {
+    background-color: #E1306C;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.trailer-button:hover {
+    background-color: #FF4F5A;
+}
+
+/* Our Robot Section */
+.robot-section {
+    margin-top: 60px;
+    padding: 20px;
+    background-color: #2C2C2C;
+    border-radius: 10px;
+}
+
+.robot-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.robot-text {
+    flex: 1;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+.robot-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.robot-image img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Footer styles */
+.footer {
+    margin-top: 60px;
+    padding: 20px;
+    background-color: #1A1A1A;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social-links {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+}
+
+.social-icon-img {
+    width: 40px;
+    height: 40px;
+}
+
+.footer-text {
+    font-size: 1rem;
+    color: #E1306C;
+}

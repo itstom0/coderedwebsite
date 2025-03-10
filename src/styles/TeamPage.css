@@ -1,0 +1,28 @@
+/* TeamPage.css */
+.team-page {
+    padding: 20px;
+    text-align: center;
+}
+
+.team-page h1 {
+    font-size: 2.5rem;
+    color: red;
+    margin-bottom: 20px;
+}
+
+.team-member {
+    margin-bottom: 30px;
+}
+
+.team-member h2 {
+    font-size: 1.8rem;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.team-member p {
+    font-size: 1.2rem;
+    color: gray;
+    max-width: 800px;
+    margin: 0 auto;
+}

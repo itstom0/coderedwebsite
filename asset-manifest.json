@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdb27c9c.css",
+    "main.js": "/static/js/main.d3c4359f.js",
+    "static/js/453.9f21c993.chunk.js": "/static/js/453.9f21c993.chunk.js",
+    "static/media/robot-derec.png": "/static/media/robot-derec.38863c61242b8524dc8c.png",
+    "static/media/coderedsitebanner.png": "/static/media/coderedsitebanner.d4163cf98095e056a3ef.png",
+    "static/media/Instagram.png": "/static/media/Instagram.db2612bd586501d9ed3e.png",
+    "static/media/GoFundMe.png": "/static/media/GoFundMe.ff1cef9d930fb1dfbeb2.png",
+    "index.html": "/index.html",
+    "main.cdb27c9c.css.map": "/static/css/main.cdb27c9c.css.map",
+    "main.d3c4359f.js.map": "/static/js/main.d3c4359f.js.map",
+    "453.9f21c993.chunk.js.map": "/static/js/453.9f21c993.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb27c9c.css",
+    "static/js/main.d3c4359f.js"
+  ]
+}

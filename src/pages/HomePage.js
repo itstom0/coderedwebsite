@@ -27,14 +27,14 @@ function HomePage() {
                 <div className="robot-container">
                     <div className="robot-text">
                         <p>
-                            Meet Derec, our First Tech Challenge robot!
+                            Meet Dere<s>do</s>c, our First Tech Challenge robot!
                             Built to be an absolute unit, it features an extendable arm, a custom-built drive train, 
                             and an intuitive control system that allows us to navigate the arena and collect elements with ease.
                             Stay tuned for exciting updates as we continue to refine Derec for the upcoming season!
                         </p>
                     </div>
                     <div className="robot-image">
-                        <img src={robotImage} alt="Derec the robot" />
+                        <img src={robotImage} alt=" the robot" />
                     </div>
                 </div>
             </div>
